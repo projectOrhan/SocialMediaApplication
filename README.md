@@ -1,0 +1,3 @@
+# SocialMediaApplication
+Social Media Application with all Basic Elements. Sending Messages, Find Other Users, Creating a Profile, Login and Register Account Operations and ext...
+If you want to run the application please put your own google-services.json file to root folder.
