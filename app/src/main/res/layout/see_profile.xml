@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/grey">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/upper">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/profileIV"
+            android:background="@color/black"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignRight="@id/profileIV">
+
+            <Button
+                android:id="@+id/btn_follow"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:textColor="@color/white"
+                android:text="Takip Et"
+                android:textAllCaps="false"
+                android:background="@drawable/circle_border_white"
+                android:layout_margin="15dp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/usernameTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Username"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:padding="15dp"
+            android:layout_alignLeft="@id/profileIV"
+            android:layout_alignBottom="@+id/profileIV"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="270dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/circle_white">
+
+        <Button
+            android:id="@+id/btn_message"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chat_bubble_icon"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/upper">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description will be placed here"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-medium"
+            android:padding="15dp"
+            android:layout_marginTop="30dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

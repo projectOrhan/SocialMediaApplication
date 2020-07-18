@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="end"
+        android:background="@drawable/message_bubble_right">
+
+        <TextView
+            android:id="@+id/messageTV"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:padding="15dp"
+            android:text="Message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp">
+
+            <TextView
+                android:id="@+id/timeTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="02/03/2019 05:59pm"
+                android:textColor="@color/grey"
+                android:textSize="12sp"/>
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:id="@+id/isSeenIV"
+                android:src="@drawable/delivered_double_tick"
+                android:layout_gravity="end"
+                android:textAlignment="textEnd"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

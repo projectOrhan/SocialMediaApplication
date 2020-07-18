@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:id="@+id/top_layout"
+        android:layout_centerInParent="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/bubbles"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="@color/black"
+                android:fontFamily="sans-serif-black"
+                android:textStyle="bold"
+                android:text="Senin Vaktin Geldi!"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:fontFamily="sans-serif-light"
+                android:textColor="@color/black"
+                android:text="Milyonlarca insanla tanışmak ve keyifli sohbetler"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:fontFamily="sans-serif-light"
+                android:textColor="@color/black"
+                android:text="etmek için şimdi Kayıt Ol ve Profilini Oluştur!"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:fontFamily="sans-serif-light"
+                android:textColor="@color/black"
+                android:text="Eee... Daha ne bekliyorsun?"/>
+
+            <Button
+                android:id="@+id/btn_kayitOl"
+                android:layout_marginTop="10dp"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:background="@drawable/message_bubble_right"
+                android:text="Kayıt Ol"/>
+
+            <Button
+                android:id="@+id/btn_girisYap"
+                android:layout_marginTop="10dp"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:background="@drawable/message_bubble_left"
+                android:text="Giriş Yap"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
