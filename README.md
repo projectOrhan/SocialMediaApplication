@@ -62,7 +62,7 @@ For example, he might like his profile, so he might want to send a message, in w
 
 In the future, this section can be edited to show fewer users. Currently, since it is for testing purposes, it shows as many accounts as there are registered in the application in a list. This will be a problem when the number of accounts increases. Therefore, for example, it can be organized to show a maximum of 10 users. Each time the page is refreshed, it can randomly show the other 10 users using the application. Such optimizations and fixes can be added in the future. 
 
-![Media_230712_231203](https://github.com/projectOrhan/SocialMediaApplication/assets/28529085/aae980b6-e0e4-4791-ab76-8982189f6665)
+![Media_230712_231203](https://github.com/projectOrhan/SocialMediaApplication/assets/28529085/0a491390-276e-44ff-b935-d87f430c443c)
 
 Yukarıda da gösterildiği üzere "Keşfet" sayfasında diğer kullanıcılar görüntülenmiştir ve etkileşime geçilmek istenen kullanıcı üzerine tıklanmıştır, istenildiği takdirde "Takip Et" butonu ile o kullanıcı takip edilmiştir, Mesaj Balonu simgesine tıklanarak o kişiye mesaj gönderebileceğimiz Sohbet Aktivitesi başlatılmıştır.
 
