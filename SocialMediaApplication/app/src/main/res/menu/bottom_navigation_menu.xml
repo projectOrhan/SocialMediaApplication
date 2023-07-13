@@ -1,0 +1,29 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <item
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:icon="@mipmap/gray_discover"
+        android:title="@string/title_discover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <item
+        android:id="@+id/page_2"
+        android:enabled="true"
+        android:icon="@mipmap/gray_chat"
+        android:title="@string/title_chats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <item
+        android:id="@+id/page_3"
+        android:enabled="true"
+        android:icon="@mipmap/gray_profille"
+        android:title="@string/title_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</menu>

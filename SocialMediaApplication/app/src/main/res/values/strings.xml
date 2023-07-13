@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+
+    <string name="title_chats">Sohbet</string>
+    <string name="title_discover">Keşfet</string>
+    <string name="title_profile">Profil</string>
+</resources>

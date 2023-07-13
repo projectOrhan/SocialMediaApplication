@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/activity_main.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/activity_messages.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/activity_settings.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/activity_start.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/change_password_activity.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/change_username_layout.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/fragment_discovery.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/fragment_messages.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/fragment_profile.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/login_activity.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/registry_page.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/row.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/row_chat_left.xml" value="0.6" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/row_chat_right.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/row_last_messages.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/see_profile_photo.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/see_their_profile.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/SocialMediaApplication/app/src/main/res/layout/see_your_profile.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable-v24/circle.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable-v24/circle_border.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable-v24/grad.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/circle_border_blue.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/circle_border_white.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/circle_disabled.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/circle_white.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/delivered_double_tick.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/forward_button_disabled.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/ic_bubble_right.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/message_bubble_left.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/drawable/message_bubble_right.xml" value="0.196" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_main.xml" value="0.15625" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_messages.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_start.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.15625" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/change_password_activity.xml" value="0.15625" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/change_username_layout.xml" value="0.4" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_discovery.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_messages.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_notifications.xml" value="0.15625" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_profile.xml" value="0.11271529888551166" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_profile2.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_profile3.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/login_activity.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/registery_page.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/registery_page2.xml" value="0.176" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/registry_page.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/row_chat_right.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/row_last_messages.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_profile_photo.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_their_profile.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_their_profile2.xml" value="0.536" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_your_profile.xml" value="0.176" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/set_emailandpasswordpage_2.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/layout/set_username_page_1.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/NormalVersion/Test6/Test3UrlmageDeneme/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_messages.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/activity_start.xml" value="0.4" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/change_password_activity.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_discovery.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_messages.xml" value="0.10283687943262411" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_notifications.xml" value="0.10283687943262411" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_profile2.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/fragment_profile3.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/login_activity.xml" value="0.16" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/registery_page.xml" value="0.16" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/registery_page2.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/registery_page_New2.xml" value="0.10587639311043566" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/row.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_profile.xml" value="0.16" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_profile_photo.xml" value="0.16" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_their_profile.xml" value="0.10587639311043566" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_their_profile2.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/see_your_profile.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/set_emailandpassword_page_2.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/set_emailandpasswordpage_2.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/Desktop/MyAndroidApps/Test6/Test3UrlmageDeneme/app/src/main/res/layout/set_username_page_1.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

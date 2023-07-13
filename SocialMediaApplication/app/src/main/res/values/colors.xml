@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#49BEFF</color>
+    <color name="colorPrimaryDark">#65DCE5</color>
+    <color name="colorAccent">#0D5D98</color>
+    <color name="colorNavIcon">#dae9f6</color>
+    <color name="colorNavText">#01294b</color>
+
+    <color name="address">#2F7092</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#30FFFFFF</color>
+    <color name="gradEnd">#67EFC8</color>
+    <color name="gradStart">#63C9FF</color>
+    <color name="followersBg">#65DCE5</color>
+    <color name="followingBg">#49BEFF</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="black">#000000</color>
+    <color name="less_black">#AE000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="button_color">#33B5E5</color>
+    <color name="circle_disabled_color">#257D9C</color>
+    <color name="like_color">#C34BD8</color>
+    <color name="save_button_disabled">#8888A3</color>
+    <color name="seen_double_tick">#00DF09</color>
+    <color name="blue">#00B7FF</color>
+</resources>
