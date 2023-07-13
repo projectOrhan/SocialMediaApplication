@@ -31,7 +31,7 @@ Click on the "Kayıt Ol" (Sign Up) button to open the page where we fill our inf
 
 The description written in the profile has also been added to the registration page. This is purely for testing purposes. In the future, it can be added to another page and removed from the registration page. 
 
-![Media_230712_163330](https://github.com/projectOrhan/SocialMediaApplication/assets/28529085/be95788b-f8eb-4309-b2c7-060766f6db75)
+![Media_230712_163330](https://github.com/projectOrhan/SocialMediaApplication/assets/28529085/140e2242-ab08-4fed-af5e-b6f6ee76ac5a)
 
 2.Hesaba Giriş Yapmak ( Login Account)
 -
